@@ -20,19 +20,21 @@ This app was created to demonstrate understanding of basic state management and 
 ## 📦 APK Download
 
 [Download APK from Google Drive](https://your-google-drive-link.com)  
-*(Replace this link with your actual Google Drive APK link)*
+
 
 ## 📽️ Demo Video
 
 [Watch Demo on Google Drive](https://your-google-drive-video-link.com)  
-*(Replace this link with your actual video link)*
 
-## 📂 Project Structure
+
+## Project Structure
 
 - `lib/` – Main application code
-- `main.dart` – Entry point
-- `question.dart` – Model for questions
-- `quiz_screen.dart` – Quiz logic and UI
+  - `main.dart` – App entry point
+  - `question.dart` – Model class for quiz questions
+  - `splash_screen.dart` – Splash screen UI
+  - `home_screen.dart` – Quiz question screen
+  - `result_screen.dart` – Final results screen
 
 ## 🧑‍💻 Developer
 
